@@ -1,0 +1,46 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+ 
+    color: rgb(82, 82, 82);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #525252;
+  }
+  
+  li {
+    left: auto;
+    padding-left: 38px;
+    float: left;
+
+  }
+  
+  li a {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 45px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: #000000;
+  }
+
+  img{
+    padding-left: auto;
+    padding-top: 3px;
+    height: 352px;
+    width: 256px;
+  }
+  p{
+    vertical-align: text-top;
+    
+  }
